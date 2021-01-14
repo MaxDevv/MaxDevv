@@ -7,17 +7,14 @@
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 
-<a target="_blank" href="https://linkedin.com/in/maxdev/">
+<a target="_blank" href="https://www.youtube.com/c/maxdev">
 <img src="https://img.shields.io/badge/-maxdev-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/maxdev" alt="Youtube Badge">
 </a>
-<a target="_blank" href="https://twitter.com/maxdev">
+<a target="_blank" href="https://twitter.com/maxdev_">
 <img src="https://img.shields.io/badge/maxdev-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/maxdev" alt="Twitter Badge">
 </a>
-<a target="_blank" href="https://instagram.com/maxdev/">
+<a target="_blank" href="https://www.instagram.com/max.d.e.v/">
 <img src="https://img.shields.io/badge/-maxdev-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/maxdev/" alt="Instagram Badge">
-</a>
-<a target="_blank" href="https://behance.net/maxdev/">
-<img src="https://img.shields.io/badge/-maxdev-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/maxdev" alt="Behance Badge">
 </a>
 <br>
 
@@ -54,7 +51,7 @@ availableForHire: true
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/maxdevyt/maxdev/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 
-<a target="_blank" href="https://github.com/maxdev/maxdev/">
+<a target="_blank" href="https://github.com/maxdevyt/maxdev/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/maxdevyt&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="maxdev's vistors">
 </a>
 
