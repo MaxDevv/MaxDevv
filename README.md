@@ -1,7 +1,7 @@
 
-<img align="right" src="https://raw.githubusercontent.com/maxdev/maxdev/master/logo.png" height="160px" width="auto">
+<img align="right" src="https://raw.githubusercontent.com/MaxDevYt/maxdev/main/logo.png" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/maxdev/maxdev/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://maximusadeola.com/">Maximus Adeola.</a></strong>
+<h1 align="left"><img src="https://raw.githubusercontent.com/MaxDevYt/maxdev/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://maximusadeola.com/">Maximus Adeola.</a></strong>
 </h1>
 
 <h3 align="left"><strong>
