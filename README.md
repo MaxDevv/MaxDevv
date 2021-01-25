@@ -28,21 +28,17 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 ```javascript
 const maxdev = {
   education: "UnderGraduate",
-  otherAlias: "Full Stack Developer",
+  otherAlias: "Front-End Web Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Linux Bash", "Unity"],
-  currentlylearning: ["MongoDB", "AI & ML","Django", "Swimming"],
+  currentlylearning: ["API Development", "AI & ML","Flask", "Swimming"],
   toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
   experiences: [
     {
-      company : "Behance",
-      post : "Graphic Designer | Freelancing"
-    },
-    {
-      company : "Eagle Eye Pvt. Ltd",
-      post : "Senior Graphic Designer"
+      company : "Personal",
+      Created : "Portfolio"
     }
   ],
-availableForHire: true
+availableForHire: false
 }
 ```
 
