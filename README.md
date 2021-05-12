@@ -1,7 +1,7 @@
 
-<img align="right" src="https://raw.githubusercontent.com/maxdevv/maxdev/main/logo.png" height="160px" width="auto">
+<img align="right" src="https://raw.githubusercontent.com/maxdevv/maxdevv/main/logo.png" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/maxdevv/maxdev/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://maximusadeola.com/">Maximus Adeola.</a></strong>
+<h1 align="left"><img src="https://raw.githubusercontent.com/maxdevv/maxdevv/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://maximusadeola.com/">Maximus Adeola.</a></strong>
 </h1>
 
 <h3 align="left"><strong>
@@ -47,7 +47,7 @@ availableForHire: false
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/maxdevv/maxdev/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 
-<a target="_blank" href="https://github.com/maxdevv/maxdev/">
+<a target="_blank" href="https://github.com/maxdevv/maxdevv/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/maxdevv&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="maxdev's vistors">
 </a>
 
