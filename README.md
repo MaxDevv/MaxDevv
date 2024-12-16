@@ -5,7 +5,8 @@
 </h1>
 
 <h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+I wanna learn as much as I can :D
+  </strong></h3>
 
 <a target="_blank" href="https://www.youtube.com/c/maxdev">
 <img src="https://img.shields.io/badge/-maxdev-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/maxdev" alt="Youtube Badge">
@@ -29,9 +30,9 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 const maxdev = {
   education: "UnderGraduate",
   otherAlias: "Front-End Web Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Python", "Linux Bash", "Unity"],
-  currentlylearning: ["API Development", "AI & ML","Flask", "Swimming"],
-  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
+  codesIn: ["Javascript", "HTML", "CSS", "Python", "Linux Bash", "Java"],
+  currentlylearning: ["ExpressJs", "ReactJs", "VueJs"],
+  toolsUsing: ["Flask", "Django", "Google Cloud", "Gemini", "Bootstrap", "Firebase", "Figma"],
   experiences: [
     {
       company : "Personal",
