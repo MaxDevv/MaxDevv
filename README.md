@@ -28,11 +28,11 @@ I wanna learn as much as I can :D
 
 ```javascript
 const maxdev = {
-  education: "UnderGraduate",
-  otherAlias: "Front-End Web Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Python", "Linux Bash", "Java"],
-  currentlylearning: ["ExpressJs", "ReactJs", "VueJs"],
-  toolsUsing: ["Flask", "Django", "Google Cloud", "Gemini", "Bootstrap", "Firebase", "Figma"],
+  education: "High School",
+  otherAlias: "Full Stack Developer",
+  codesIn: ["Javascript", "HTML", "CSS", "Python", "Linux Bash", "Java", "Svelte", "NodeJS"],
+  currentlylearning: ["noSQL"],
+  toolsUsing: ["Flask", "Google Cloud", "Gemini", "Firebase", "Tensorflow", "Huggingface", "NEAT"],
   experiences: [
     {
       company : "Personal",
