@@ -4,7 +4,7 @@
 
 I build things because I love building and solving puzzles.
 
-Some projects start from boredom, some from problems, others from obsession — but they all teach me something new.
+Some projects start from boredom, some from problems, others from obsession, but they all teach me something new.
 
 Most nights you'll find me working on half-finished ideas with jazz in the background and a notepad full of project sketches.
 
