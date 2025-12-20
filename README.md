@@ -10,7 +10,7 @@ Most nights you'll find me working on half-finished ideas with jazz in the backg
 
 > *"The next time I see a glass wall, I won't just smash my head against it. I'll see it for what it is: a problem waiting for a solution. And then I'll build the tool to shatter it."*
 
-[🌐 website](https://maximusadeola.com) · [✉️ resume](mailto:hi@maximusadeola.com) · [💬 open issue to chat](https://github.com/MaxDevv/MaxDevv/issues/new)
+[🌐 website](https://maximusadeola.com) · [✉️ resume](https://github.com/MaxDevv/MaxDevv/blob/main/Resume.pdf) · [💬 open issue to chat](https://github.com/MaxDevv/MaxDevv/issues/new)
 
 ---
 
